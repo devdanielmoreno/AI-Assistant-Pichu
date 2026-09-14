@@ -1,3 +1,5 @@
+![Pichu en pantalla](imgrapido/fondoPantallPichu.png)
+
 # Asistente IA Pichu
 
 Asistente de escritorio con voz para Windows, hecho con **PyQt5**, que controla
@@ -118,6 +120,17 @@ ui.py             Avatar Live2D (QtWebEngine + PixiLive2D) + tray + chat
 vision.py         OCR y clics sobre la pantalla (Tesseract/Windows OCR)
 zen_bidi.py       Driver WebDriver (BiDi + geckodriver) hacia Zen
 ```
+
+---
+
+## Muestra del modelo
+
+El conejito es un modelo Live2D con expresiones que cambian según lo que hace
+(hablando, sorprendido, enfadado, feliz...). Unas muestras:
+
+| Normal | Feliz | Enfadado |
+|---|---|---|
+| ![Normal](imgrapido/normal.png) | ![Feliz](imgrapido/feliz.png) | ![Enfadado](imgrapido/enfadado.png) |
 
 ---
 
