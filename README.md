@@ -1,16 +1,22 @@
+<h1 align="center">Asistente IA Pichu</h1>
+
 <p align="center">
-  <img src="https://i.pinimg.com/originals/ef/8d/85/ef8d85ee15ec7a364874d455c553322a.gif" alt="Pichu animado">
+  <i>Tu mascota de escritorio con voz para Windows</i>
 </p>
 
-# Asistente IA Pichu
+<p align="center">
+  <img src="https://i.pinimg.com/originals/ef/8d/85/ef8d85ee15ec7a364874d455c553322a.gif" alt="Pichu animado" width="360">
+</p>
+
+---
 
 Asistente de escritorio con voz para Windows, hecho con **PyQt5**, que controla
-apps reales (Stremio, Zen Browser, mpv, Android Studio), a un **modelo Live2D**
-(conejito) y le habla y te contesta por micrófono.
+apps reales (Stremio, Zen Browser, mpv, Android Studio) y un **modelo Live2D**
+(conejito) al que le hablas por micrófono y te responde.
 
-Por defecto se comporta como un "mascota" que se agacha en la esquina de la
-pantalla, un widget flotante de música y un chat silencioso por voz. Todo corre
-en local: la generación de respuestas se hace a través de un **ModelRelay**
+Por defecto se comporta como una "mascota" agachada en la esquina de la
+pantalla, con un widget flotante de música y un chat silencioso por voz. Todo
+corre en local: la generación de respuestas se hace a través de un **ModelRelay**
 (en el puerto 7352) que tú mismo montas; Pichu solo es el "manos".
 
 > **Aviso**: la voz de IlloJuan (RVC) y el modelo whisper NO vienen en el
