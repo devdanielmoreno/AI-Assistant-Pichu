@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Binarios y modelos descargables (ver README: se instalan aparte)
+bin/
+geckodriver/
+whisper_model/
+rvc/
+
+# Empaquetado
+build/
+dist/
+
+# Datos locales / configuración de la máquina
+*.db
+*.log
+pichu_pos.json
+musica_widget_pos.json
+zen_path.txt
+
+# Basura del sistema
+Thumbs.db

@@ -1,0 +1,46 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "Pichu.moc3",
+		"Textures": [
+			"Pichu.2048/texture_00.png"
+		],
+		"Physics": "Pichu.physics3.json",
+		"DisplayInfo": "Pichu.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "Angry",
+				"File": "Angry.exp3.json"
+			},
+			{
+				"Name": "Dispair",
+				"File": "Dispair.exp3.json"
+			},
+			{
+				"Name": "Happy",
+				"File": "Happy.exp3.json"
+			},
+			{
+				"Name": "Sad",
+				"File": "Sad.exp3.json"
+			},
+			{
+				"Name": "Shock",
+				"File": "Shock.exp3.json"
+			}
+		]
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		}
+	],
+	"HitAreas": []
+}
