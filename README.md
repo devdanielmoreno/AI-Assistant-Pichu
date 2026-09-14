@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="imgrapido/fondoPantallPichu.png" alt="Pichu en pantalla">
+  <img src="https://i.pinimg.com/originals/ef/8d/85/ef8d85ee15ec7a364874d455c553322a.gif" alt="Pichu animado">
 </p>
 
 # Asistente IA Pichu
