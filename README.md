@@ -1,4 +1,6 @@
-![Pichu en pantalla](imgrapido/fondoPantallPichu.png)
+<p align="center">
+  <img src="imgrapido/fondoPantallPichu.png" alt="Pichu en pantalla">
+</p>
 
 # Asistente IA Pichu
 
