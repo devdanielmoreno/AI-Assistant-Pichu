@@ -6,9 +6,7 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://i.pinimg.com/originals/ef/8d/85/ef8d85ee15ec7a364874d455c553322a.gif" alt="Pichu animado" width="360">
-</p>
+
 
 Asistente de escritorio con voz para Windows, hecho con **PyQt5**, que controla
 apps reales (Stremio, Zen Browser, mpv, Android Studio) y un **modelo Live2D**
@@ -19,9 +17,11 @@ pantalla, con un widget flotante de música y un chat silencioso por voz. Todo
 corre en local: la generación de respuestas se hace a través de un **ModelRelay**
 (en el puerto 7352) que tú mismo montas; Pichu solo es el "manos".
 
-> **Aviso**: la voz de IlloJuan (RVC) y el modelo whisper NO vienen en el
+> **Advertencia**: la voz de IlloJuan (RVC) y el modelo whisper NO vienen en el
 > repositorio. Son opcionales; sin ellos Pichu funciona con Edge-TTS.
-
+<p align="center">
+  <img src="https://i.pinimg.com/originals/ef/8d/85/ef8d85ee15ec7a364874d455c553322a.gif" alt="Pichu animado" width="360">
+</p>
 ---
 
 ## Qué hace
