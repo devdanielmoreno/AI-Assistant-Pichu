@@ -1,6 +1,6 @@
-# Pichu AI Assistant
-
 <p align="center">
+  # Pichu AI Assistant
+
   <i>Your voice-enabled desktop pet for Windows</i>
 </p>
 
