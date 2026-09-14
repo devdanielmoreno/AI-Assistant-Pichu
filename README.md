@@ -1,11 +1,11 @@
-<h1 align="center">Asistente IA Pichu</h1>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/ef/8d/85/ef8d85ee15ec7a364874d455c553322a.gif" alt="Pichu animado" width="360">
+</p>
+
+# Asistente IA Pichu
 
 <p align="center">
   <i>Tu mascota de escritorio con voz para Windows</i>
-</p>
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/ef/8d/85/ef8d85ee15ec7a364874d455c553322a.gif" alt="Pichu animado" width="360">
 </p>
 
 ---
