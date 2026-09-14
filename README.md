@@ -1,5 +1,5 @@
 <p align="center">
-  # Pichu AI Assistant
+  <i># Pichu AI Assistant</i>
 
   <i>Your voice-enabled desktop pet for Windows</i>
 </p>
