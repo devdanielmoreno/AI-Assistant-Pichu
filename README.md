@@ -1,8 +1,8 @@
+# Asistente IA Pichu
+
 <p align="center">
   <img src="https://i.pinimg.com/originals/ef/8d/85/ef8d85ee15ec7a364874d455c553322a.gif" alt="Pichu animado">
 </p>
-
-# Asistente IA Pichu
 
 Asistente de escritorio con voz para Windows, hecho con **PyQt5**, que controla
 apps reales (Stremio, Zen Browser, mpv, Android Studio), a un **modelo Live2D**
